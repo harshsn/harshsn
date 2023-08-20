@@ -33,3 +33,21 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsn&show_icons=true&locale=en" alt="harshsn" /></p>
+
+---
+
+### Projects:
+
+#### EmoSense: Real-Time Facial Emotion Recognition System
+
+- Developed a system leveraging Python and OpenCV for real-time emotion recognition from facial expressions.
+- Applied advanced image processing techniques and machine learning models to accurately classify emotions.
+- Demonstrated a deep understanding of computer vision and machine learning fundamentals.
+- [[Link to EmoSense Project](https://github.com/harshsn/DroidCafe)](#)
+
+#### DroidCafe: Streamlined Café Ordering Android App
+
+- Engineered "DroidCafe," an Android app tailored for seamless café food ordering, utilizing Java.
+- Designed with an elegant minimalist ethos, ensuring an intuitive user experience by focusing on essential features.
+- Showcased proficiency in Android app development and user-centered design principles.
+- [[Link to DroidCafe Project](https://github.com/harshsn/EmoSense)](#)
